@@ -1,6 +1,5 @@
-![forthebadge](https://img.shields.io/badge/made%20with-Swift-red.svg?style=for-the-badge&logo=Swift&logoColor=white)<br>
-![forthebadge](https://img.shields.io/badge/uses-Realm-blue.svg?style=for-the-badge)
-![forthebadge](https://img.shields.io/badge/uses-Chameleon%20Framework-blue.svg?style=for-the-badge)
+![forthebadge](https://img.shields.io/badge/made%20with-Swift-FA7343.svg?style=for-the-badge&logo=Swift&logoColor=white)<br>
+![forthebadge](https://img.shields.io/badge/uses-Realm-39477F.svg?style=for-the-badge&logo=Realm&logoColor=white)
 
 # *To-Do List*
 A To-Do List iOS application written in Swift that gives a user the ability to create items which they are able to tick off once completed. Categories are implemented using an additional screen which allows users to sort their items into different categories based on areas, for example, Groceries. Persistent storage is implemented by using Realm which persists between app closures and dynamic colour schemes and theming are created by using the Chameleon Framework.
